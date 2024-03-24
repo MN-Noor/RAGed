@@ -1,1 +1,5 @@
 venv/
+.env
+openai_usage.log
+assertion.log
+azure_openai_usage.log
